@@ -31,9 +31,13 @@ namespace VGStorePractica.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Categorias obj)
         {
+            if (ModelState.IsValid)
+            {
                 _db.Categorias.Add(obj);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
+            }
+            return View(obj);
         }
     }
 }

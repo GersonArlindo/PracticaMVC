@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arlindo\\source\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj": {}
+    "C:\\Users\\Arlindo\\source\\repos\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arlindo\\source\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj": {
+    "C:\\Users\\Arlindo\\source\\repos\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arlindo\\source\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj",
+        "projectUniqueName": "C:\\Users\\Arlindo\\source\\repos\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj",
         "projectName": "VGStorePractica",
-        "projectPath": "C:\\Users\\Arlindo\\source\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj",
+        "projectPath": "C:\\Users\\Arlindo\\source\\repos\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj",
         "packagesPath": "C:\\Users\\Arlindo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arlindo\\source\\VGStorePractica\\VGStorePractica\\obj\\",
+        "outputPath": "C:\\Users\\Arlindo\\source\\repos\\VGStorePractica\\VGStorePractica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zRibzH5ko5ABz/jpv+udWia5O82bWL0L/j2t+ig5op2eyDZX0A5zNeFjgaWtQSwdBY1c68nb8ogttB6GYIzOBg==",
+  "dgSpecHash": "5vcwUtNed4oVhvrmxG5Ca9REXGDpsLQnU0ZzRZkNa6JmuOtV10jaLX/MWquofJVlCcQkaj7IUrDMhtkYqkarrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arlindo\\source\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj",
+  "projectFilePath": "C:\\Users\\Arlindo\\source\\repos\\VGStorePractica\\VGStorePractica\\VGStorePractica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arlindo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Arlindo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
