@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using VGStorePractica.Models;
 
+
 namespace VGStorePractica.Data
 {
     public class AppDbContext : DbContext
@@ -10,5 +11,6 @@ namespace VGStorePractica.Data
 
         }
         public DbSet<Categorias> Categorias { get; set; }
+        public DbSet<Consolas> Consolas { get; set; }
     }
 }
